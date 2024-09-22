@@ -89,3 +89,21 @@ This project is a simple URL shortener API that allows users to shorten long URL
 **searchTerm**: The term to search for in URLs.
 Response:
 - `200 OK`: Returns the list of URLs matching the search term.
+
+## Contributing
+
+Contributions are welcome! To contribute to the project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b my-new-feature`
+3. Make your changes and commit them: `git commit -am 'Add my new feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Project URL
+
+[URL Shortening Service](https://roadmap.sh/projects/url-shortening-service)
